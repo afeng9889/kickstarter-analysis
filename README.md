@@ -5,7 +5,7 @@
 - By organizing and sorting crowdfunding data from previous successful and failed projects, we can help Louise determine if her goal is reachable.
 
 ### Purpose
-Using data given to analyze and determine if there are specific factors to a successful or failed project. By comparing locations, donations received, and categoiries, and sorting it into a readable format, we can easily determine key elements in eahc data point.
+Using data given to analyze and determine if there are specific factors to a successful or failed campaign. By comparing locations, donations received, and categoiries, and sorting it into a readable format, we can easily determine key elements in each data point.
 Performing analysis on this data will help us uncover trends. 
 
 ## Analysis and Challenges
