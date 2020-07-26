@@ -38,9 +38,11 @@ Depending on Louise's goal, she may need to find further evidence in her specifi
 1) There were more projects with less than $5,000 than all other goals combined.
 
 - What are some limitations of this dataset?
+
 Though we have a lot of usable data, we cannot fully conclude why some plays received more backing than others. 
 We are unable to sort plays based on the premise/blurb. The pledges could be stemmed from an individual's subjective tastes.
 
 - What are some other possible tables and/or graphs that we could create?
+
 We can create additional charts that shows the average donation  per backer for each month/year.
 We can also sort number of successful/failed/canceled projects based on countries.
