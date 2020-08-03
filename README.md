@@ -19,10 +19,12 @@ After sorting, we had to take a look to see if the reason why a certain project 
 ### Analysis of Outcomes Based on Launch Date
 We can draw data from the chart showing a larger number of successful campaigns when the launch date was in May and June. We can also see there were no cnaceled campaigns in October. However, we cannot determine the reason.
 We can also see that there were more projects launched in the middle of the year (May to August).
+![Outcomes Based on Launch Date](Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 From an initial look, we can see that there were no projects canceled. Majority of the projects' goal was under $5000. We can see there may be a correlation between a higher goal amount to a higher failure amount. However, the amount of projects with a higher goal than $40,000 were low.
 More than half of the projects have goals above $5,000 and only half succeeded in their goals.
+![Outcomes Based on Goals](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 There were a lot of rows to sort through. It is difficult to find correlations in the data to help Louise determine the best course of action for her crowdfunding campaign.There may not be enough data to conclude if higher goals will indeed lead to a failed project.
